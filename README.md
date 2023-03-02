@@ -10,3 +10,5 @@
 Compartilhe seus resultados com seus colegas! 
 
 Bons estudos! 😊💕
+
+Projeto utilizando HTM, CSS, Flex box e responsividade.
